@@ -1,5 +1,5 @@
 # ABAP
-ABAP 
+ABAP 7.40 Leyes
 https://discoveringabap.com/abap-7-4-syntaxes-abap-expressions/
 
 https://community.sap.com/t5/technology-blogs-by-members/abap-7-40-quick-reference/ba-p/13287523
